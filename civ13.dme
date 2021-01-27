@@ -967,6 +967,5 @@
 #include "code\processes\zoom\zoom_scopes.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
-#include "maps\1713\hunt.dmm"
-hunt
+#include "maps\1943\forest.dmm"
 // END_INCLUDE
